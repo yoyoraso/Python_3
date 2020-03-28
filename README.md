@@ -29,8 +29,7 @@ If the string length of the given string is less than 3, leave it unchanged.
 
 
 9-- Write a Python program that accepts a string and calculate the number of digits and letters.
-
-# Use a separate condition for each validity rule
+Use a separate condition for each validity rule
 
 10-- Write a Python program to check the validity of a given password.
     Validation :
@@ -49,25 +48,25 @@ If the string length of the given string is less than 3, leave it unchanged.
 
 
 13-- Write a Python program to print the following pattern
-1
-22
-333
-4444
-55555
-666666
-7777777
-...n
+###  1
+###  22
+###  333
+###  4444
+###  55555
+### 666666
+###  7777777
+###  ...n
 
 
 14-- Write a Python program to construct the following pattern
   using a nested for loop and a given (n) number
 
-*
-* *
-* * *
-* * * *
-* * * * n
-* * * *
-* * *
-* *
-*
+###  *
+###  * *
+###  * * *
+###  * * * *
+###  * * * * n
+###  * * * *
+###  * * *
+###  * *
+###  *
